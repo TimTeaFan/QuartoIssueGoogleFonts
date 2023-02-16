@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: dist  
 
 website:
   title: "GoogleFontIssue"
@@ -11,7 +12,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: [darkly, custom]
     css: styles.css
     toc: true
 
