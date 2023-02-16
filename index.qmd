@@ -1,5 +1,6 @@
 ---
 title: "GoogleFontIssue"
+embed-resources: true
 ---
 
 This is a Quarto website.
